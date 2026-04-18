@@ -30,8 +30,3 @@
         // Booking form validation would be added here
         
         // Parallax
-
-
-
-
-
