@@ -23,7 +23,7 @@ It showcases a luxury hotel experience with elegant design, smooth animations, a
 ---
 
 ## 🛠️ Technologies Used
-- HTML5
+- HTML
 - CSS
 - JavaScript  
 
